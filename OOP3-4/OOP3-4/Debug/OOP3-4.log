@@ -1,0 +1,3 @@
+﻿  Band.cpp
+d:\oop3-4\oop3-4\band.cpp(4): error C2084: функция "Band::Band(void)" уже имеет текст реализации
+  d:\oop3-4\oop3-4\band.h(11): note: см. предыдущее определение "{ctor}"

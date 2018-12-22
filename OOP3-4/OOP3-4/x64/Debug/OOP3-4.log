@@ -1,0 +1,23 @@
+﻿  Band.cpp
+  Dispatcher.cpp
+  Householder.cpp
+d:\oop3-4\oop3-4\householder.cpp(124): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  People.cpp
+d:\oop3-4\oop3-4\people.h(31): warning C4584: B: базовый класс "People" уже является базовым классом для "A"
+  d:\oop3-4\oop3-4\people.h(6): note:  см. объявление "People"
+  d:\oop3-4\oop3-4\people.h(19): note:  см. объявление "A"
+d:\oop3-4\oop3-4\people.h(42): warning C4584: C: базовый класс "A" уже является базовым классом для "B"
+  d:\oop3-4\oop3-4\people.h(19): note:  см. объявление "A"
+  d:\oop3-4\oop3-4\people.h(30): note:  см. объявление "B"
+  Source.cpp
+d:\oop3-4\oop3-4\people.h(31): warning C4584: B: базовый класс "People" уже является базовым классом для "A"
+  d:\oop3-4\oop3-4\people.h(6): note:  см. объявление "People"
+  d:\oop3-4\oop3-4\people.h(19): note:  см. объявление "A"
+d:\oop3-4\oop3-4\people.h(42): warning C4584: C: базовый класс "A" уже является базовым классом для "B"
+  d:\oop3-4\oop3-4\people.h(19): note:  см. объявление "A"
+  d:\oop3-4\oop3-4\people.h(30): note:  см. объявление "B"
+d:\oop3-4\oop3-4\source.cpp(17): warning C4101: var: неиспользованная локальная переменная
+d:\oop3-4\oop3-4\source.cpp(22): warning C4101: ptr_band: неиспользованная локальная переменная
+  Создание кода...
+d:\oop3-4\oop3-4\dispatcher.cpp(91): warning C4715: Dispatcher::Work: значение возвращается не при всех путях выполнения
+  OOP3-4.vcxproj -> D:\OOP3-4\x64\Debug\OOP3-4.exe
